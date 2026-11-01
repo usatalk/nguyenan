@@ -50,7 +50,7 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "KHUNG MẶC ĐỊNH,CF 45S",
+            title: "KHUNG MẶC ĐỊNH,CF 180S",
             feature_set: [
                 {
                     title: "🤍🤍🤍🤍🤍🤍🤍🤍🤍🤍",
